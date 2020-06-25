@@ -1,9 +1,9 @@
 coop
 survival
-# Config.cfg
+Config.cfg
 # treino.cfg
 ai.cfg
-autoexec.cfg
+# autoexec.cfg
 banned_user.cfg
 buypresetsdefault_ct.vdf
 buypresetsdefault_ter.vdf
